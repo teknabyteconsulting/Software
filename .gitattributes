@@ -1,0 +1,1 @@
+SentinelInstaller_windows_64bit_v21_7_2_1038.msi filter=lfs diff=lfs merge=lfs -text
