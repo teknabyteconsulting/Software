@@ -4,3 +4,5 @@ SentinelInstaller-x64_windows_64bit_v21_7_2_1038.exe filter=lfs diff=lfs merge=l
 *.msi filter=lfs diff=lfs merge=lfs -text
 SentinelInstaller_windows_64bit_v22_2_3_402.msi filter=lfs diff=lfs merge=lfs -text
 SentinelOneInstaller_windows_64bit_v22_2_3_402.exe filter=lfs diff=lfs merge=lfs -text
+SentinelCleaner_64BIT.exe filter=lfs diff=lfs merge=lfs -text
+PrinterInstallerClient.msi filter=lfs diff=lfs merge=lfs -text
